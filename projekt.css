@@ -1,0 +1,8 @@
+body{
+    background: url(szabalyzat.png);
+}
+
+nav.navbar{
+    opacity: 25%;
+    background-color: #bfe4ae;
+}
