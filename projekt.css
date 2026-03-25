@@ -3,6 +3,22 @@ body{
 }
 
 nav.navbar{
-    opacity: 25%;
+    opacity: 75%;
     background-color: #bfe4ae;
+}
+.nav-link{
+    font-size: large;
+    font-weight: 500;
+}
+.card{
+    background-color: #bfe4ae;
+    border-radius: 12px;
+    transition: 0.3s;
+}
+.card:hover{
+    box-shadow:20px 20px 20px #8ec587;
+    transform: translateY(-5px);
+}
+#zöld{
+    color: #bfe4ae;
 }
