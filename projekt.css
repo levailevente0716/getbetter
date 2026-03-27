@@ -22,3 +22,13 @@ nav.navbar{
 #zöld{
     color: #bfe4ae;
 }
+.btn{
+    background-color: #8ec587;
+}
+.btn:hover{
+    color: #bfe4ae;
+    background-color: black;
+}
+#szabalyzat{
+    box-shadow: none;
+}
