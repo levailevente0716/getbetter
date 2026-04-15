@@ -30,5 +30,6 @@ nav.navbar{
     background-color: black;
 }
 #szabalyzat{
-    box-shadow: none;
+    background-color: #bfe4ae;
+    border-color: black;
 }
